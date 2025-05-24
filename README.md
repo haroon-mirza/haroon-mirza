@@ -7,14 +7,15 @@ Hello, I'm Aaron. Data Analyst with expertise in data analysis and reporting, qu
 - Developing dashboards on Power BI, Tableau and Looker Studio.
 - Data analysis and reporting using Google Sheets, Excel, and Python Programming.
 
-📚 Projects
+# 📚 Projects
 Welcome to my portfolio, where I showcase my projects.
 
-🛠️ Tools
-Language: SQL, Python, VBA
-Database: Google BigQuery, PostgreSQL, MySQL, MS Access
-Visualization: Power BI, Tableau, Looker Studio
-👋🏻 Connect with Me
+# 🛠️ Tools
+- Language: SQL, Python, VBA
+- Database: Google BigQuery, PostgreSQL, MySQL, MS Access
+- Visualization: Power BI, Tableau, Looker Studio
+
+# 👋🏻 Connect with Me
 Linkedin[https://www.linkedin.com/in/mirza-haroon/](url)
 <!--
 **haroon-mirza/haroon-mirza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
