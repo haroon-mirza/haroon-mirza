@@ -16,7 +16,7 @@ Welcome to my portfolio, where I showcase my projects.
 - Visualization: Power BI, Tableau, Looker Studio
 
 # 👋🏻 Connect with Me
-[Linkedin]([url](https://www.linkedin.com/in/mirza-haroon/))
+[Linkedin](https://www.linkedin.com/in/mirza-haroon/)
 <!--
 **haroon-mirza/haroon-mirza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
