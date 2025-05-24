@@ -1,4 +1,4 @@
-## Hi there 👋
+Introduction 👋
 
 Hello, I'm Aaron. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
 
