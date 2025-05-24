@@ -12,7 +12,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/haroo
 
 # 🛠️ Tools
 - Language: SQL, Python, Spark, Java, R, VBA 
-- Database: Google BigQuery, MongoDB, Oracle, SQL Server, MySQL, PostgreSQL, MS Access
+- Database: Azure SQL Database, AWS RDS, Google BigQuery, MongoDB, Oracle, SQL Server, MySQL, PostgreSQL, MS Access
 - Visualization: Power BI, Tableau, Looker Studio
 
 # 👋🏻 Connect with Me
