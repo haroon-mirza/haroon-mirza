@@ -11,8 +11,8 @@ Hello, I'm Aaron. Data Analyst with expertise in data analysis and reporting, qu
 Welcome to my portfolio, where I showcase my [projects](https://github.com/haroon-mirza/Portfolio-Guide?tab=readme-ov-file).
 
 # 🛠️ Tools
-- Language: SQL, Python, VBA
-- Database: Google BigQuery, PostgreSQL, MySQL, MS Access
+- Language: SQL, Python, Spark, Java, R, VBA 
+- Database: Google BigQuery, MongoDB, Oracle, SQL Server, MySQL, PostgreSQL, MS Access
 - Visualization: Power BI, Tableau, Looker Studio
 
 # 👋🏻 Connect with Me
