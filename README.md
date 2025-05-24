@@ -6,6 +6,7 @@ Hello, I'm Aaron. Data Analyst with expertise in data analysis and reporting, qu
 - Generate reports and perform ad-hoc data analysis using SQL.
 - Developing dashboards on Power BI, Tableau and Looker Studio.
 - Data analysis and reporting using Google Sheets, Excel, and Python Programming.
+
 📚 Projects
 Welcome to my portfolio, where I showcase my projects.
 
