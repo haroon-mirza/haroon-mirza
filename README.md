@@ -8,7 +8,7 @@ Hello, I'm Aaron. Data Analyst with expertise in data analysis and reporting, qu
 - Data analysis and reporting using Google Sheets, Excel, and Python Programming.
 
 # 📚 Projects
-Welcome to my portfolio, where I showcase my projects.
+Welcome to my portfolio, where I showcase my [projects](https://github.com/haroon-mirza/Portfolio-Guide?tab=readme-ov-file)
 
 # 🛠️ Tools
 - Language: SQL, Python, VBA
