@@ -1,19 +1,24 @@
 # Introduction 👋
 
-Hello, I'm Aaron. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
+Hello, I'm Aaron. As a Business Analyst, I focus on transforming data into actionable insights and strategic solutions that drive business improvements. My expertise lies in understanding complex business needs and leveraging data to provide clarity and support better decision-making.
 
-- Querying data using SQL.
-- Generate reports and perform ad-hoc data analysis using SQL and Python.
-- Developing dashboards on Power BI, Tableau and Looker Studio.
-- Data analysis and reporting using Google Sheets, Excel, and Python.
+- Leveraging SQL to extract and analyze data for critical business inquiries.
+- Performing in-depth data analysis and generating reports with SQL and Python to uncover trends and support strategic objectives.
+- Creating intuitive dashboards (Power BI, Tableau, Looker Studio, Pivot Tables) to visualize key metrics and make complex information accessible.
+
+Utilizing a range of tools including Excel, Google Sheets, and Python for comprehensive data analysis and clear reporting.
 
 # 📚 Projects
 Welcome to my portfolio, where I showcase my [projects](https://github.com/haroon-mirza/Portfolio-Guide?tab=readme-ov-file).
 
 # 🛠️ Tools
-- Language: SQL, Python, VBA 
-- Database: Azure SQL Database, AWS RDS, Google BigQuery, SQL Server, MySQL, PostgreSQL, MS Access
-- Visualization: Power BI, Tableau, Looker Studio
+- Languages: SQL, Python, VBA
+- Databases: SQL Server, PostgreSQL, MySQL, Snowflake
+- Data Analysis & Visualization: Tableau, Power BI, Looker Studio, Excel (Advanced), Python (Pandas, NumPy, Matplotlib)
+- CRM Systems: Salesforce, Microsoft Dynamics 365, HubSpot
+- ERP Systems: SAP S/4HANA, Oracle NetSuite, Microsoft Dynamics 365
+- Project Management & Collaboration: Jira, SharePoint, MS Office Suite (Word, PowerPoint, Outlook)
+- Cloud Platforms: Microsoft Azure, AWS, GCP
 
 # 👋🏻 Connect with Me
 - [Linkedin](https://www.linkedin.com/in/mirza-haroon/)
