@@ -5,8 +5,7 @@ Hello, I'm Aaron. As a Business Analyst, I focus on transforming data into actio
 - Leveraging SQL to extract and analyze data for critical business inquiries.
 - Performing in-depth data analysis and generating reports with SQL and Python to uncover trends and support strategic objectives.
 - Creating intuitive dashboards (Power BI, Tableau, Looker Studio, Pivot Tables) to visualize key metrics and make complex information accessible.
-
-Utilizing a range of tools including Excel, Google Sheets, and Python for comprehensive data analysis and clear reporting.
+- Utilizing a range of tools including Excel, Google Sheets, and Python for comprehensive data analysis and clear reporting.
 
 # 📚 Projects
 Welcome to my portfolio, where I showcase my [projects](https://github.com/haroon-mirza/Portfolio-Guide?tab=readme-ov-file).
