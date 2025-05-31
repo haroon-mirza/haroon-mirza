@@ -1,6 +1,6 @@
 # Introduction 👋
 
-Hello, I'm Aaron. As a Business Analyst, I focus on transforming data into actionable insights and strategic solutions that drive business improvements. My expertise lies in understanding complex business needs and leveraging data to provide clarity and support better decision-making.
+Hello, I'm Aaron. With my analytical skills, I focus on transforming data into actionable insights and strategic solutions that drive business improvements. My expertise lies in understanding complex business needs and leveraging data to provide clarity and support better decision-making.
 
 - Leveraging SQL to extract and analyze data for critical business inquiries.
 - Performing in-depth data analysis and generating reports with SQL and Python to uncover trends and support strategic objectives.
