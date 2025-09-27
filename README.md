@@ -4,7 +4,7 @@ Hello, I'm Aaron. With my analytical skills, I focus on transforming data into a
 
 - Leveraging SQL to extract and analyze data for critical business inquiries.
 - Performing in-depth data analysis and generating reports with SQL and Python to uncover trends and support strategic objectives.
-- Creating intuitive dashboards (Power BI, Tableau, Looker Studio, Pivot Tables) to visualize key metrics and make complex information accessible.
+- Creating intuitive dashboards (Power BI, Tableau, Excel Pivot Tables) to visualize key metrics and make complex information accessible.
 - Utilizing a range of tools including Excel, SQL, and Python for comprehensive data analysis and clear reporting.
 
 # 📚 Projects
