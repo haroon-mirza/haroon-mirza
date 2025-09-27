@@ -5,19 +5,24 @@ Hello, I'm Aaron. With my analytical skills, I focus on transforming data into a
 - Leveraging SQL to extract and analyze data for critical business inquiries.
 - Performing in-depth data analysis and generating reports with SQL and Python to uncover trends and support strategic objectives.
 - Creating intuitive dashboards (Power BI, Tableau, Looker Studio, Pivot Tables) to visualize key metrics and make complex information accessible.
-- Utilizing a range of tools including Excel, Google Sheets, and Python for comprehensive data analysis and clear reporting.
+- Utilizing a range of tools including Excel, SQL, and Python for comprehensive data analysis and clear reporting.
 
 # 📚 Projects
 Welcome to my portfolio, where I showcase my [projects](https://github.com/haroon-mirza/Portfolio-Guide?tab=readme-ov-file).
 
-# 🛠️ Tools
-- Languages: SQL, Python, VBA
-- Databases: SQL Server, PostgreSQL, MySQL, Snowflake
-- Data Analysis & Visualization: Tableau, Power BI, Looker Studio, Excel (Advanced), Python (Pandas, NumPy, Matplotlib)
-- CRM Systems: Salesforce, Microsoft Dynamics 365, HubSpot
-- ERP Systems: SAP S/4HANA, Oracle NetSuite, Microsoft Dynamics 365
-- Project Management & Collaboration: Jira, SharePoint, MS Office Suite (Word, PowerPoint, Outlook)
-- Cloud Platforms: Microsoft Azure, AWS, GCP
+# 🛠️ Skills
+Analytics: Business Intelligence, Dashboarding, KPI design,
+Self-serve analytics, Data storytelling, Ad-hoc analysis
+Languages: SQL (advanced), Python (Pandas, NumPy, Matplotlib, PySpark), VBA
+Data Visualization: Power BI (DAX, Power Query), Tableau, Advanced Excel
+Statistical Analysis: Hypothesis Testing, A/B Testing, Regression, Confidence Intervals, Time Series Forecasting
+Data Ops & Version Control: Airflow, Docker, Git
+Cloud: GCP BigQuery, AWS (S3, EC2, Glue, Redshift), Databricks, MS Fabric
+Databases: PostgreSQL, SQL Server, MySQL
+Data Warehouse: Snowflake
+Data Transformation: ETL/ELT, Data Modeling, dbt
+
+
 
 # 👋🏻 Connect with Me
 - [Linkedin](https://www.linkedin.com/in/mirza-haroon/)
