@@ -14,12 +14,11 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/haroo
 - Analytics: Business Intelligence, Dashboarding, KPI design, Self-serve analytics, Data storytelling, Ad-hoc analysis
 - Languages: SQL (advanced), Python (Pandas, NumPy, Matplotlib, PySpark), VBA
 - Data Visualization: Power BI (DAX, Power Query), Tableau, Advanced Excel
-- Statistical Analysis: Hypothesis Testing, A/B Testing, Regression, Confidence Intervals, Time Series Forecasting
 - Data Ops & Version Control: Airflow, Docker, Git
-- Cloud: GCP BigQuery, AWS (S3, EC2, Glue, Redshift), Databricks, MS Fabric
+- Cloud: GCP BigQuery, AWS (S3, EC2, Glue, Redshift)
 - Databases: PostgreSQL, SQL Server, MySQL
 - Data Transformation: ETL/ELT, Data Modeling, dbt
-- Data Warehouse: Snowflake
+- Data Warehouse: Snowflake, Databricks
 
 
 
