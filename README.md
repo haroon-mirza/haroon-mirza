@@ -4,7 +4,7 @@ Hello, I'm Aaron. With my analytical skills, I focus on transforming data into a
 
 - Leveraging SQL to extract and analyze data for critical business inquiries.
 - Performing in-depth data analysis and generating reports with SQL and Python to uncover trends and support strategic objectives.
-- Creating intuitive dashboards (Power BI, Tableau, Excel Pivot Tables) to visualize key metrics and make complex information accessible.
+- Creating intuitive dashboards (Power BI, Excel Pivot Tables) to visualize key metrics and make complex information accessible.
 - Utilizing a range of tools including Excel, SQL, and Python for comprehensive data analysis and clear reporting.
 
 # 📚 Projects
@@ -12,15 +12,13 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/haroo
 
 # 🛠️ Skills
 - Analytics: Business Intelligence, Dashboarding, KPI design, Self-serve analytics, Data storytelling, Ad-hoc analysis
-- Languages: SQL (advanced), Python (Pandas, NumPy, Matplotlib, PySpark), VBA
-- Data Visualization: Power BI (DAX, Power Query), Tableau, Advanced Excel
+- Languages: SQL, Python (Pandas, NumPy, Matplotlib, PySpark)
+- Data Visualization: Power BI (DAX, Power Query), Excel
 - Data Ops & Version Control: Airflow, Docker, Git
-- Cloud: GCP BigQuery, AWS (S3, EC2, Glue, Redshift)
-- Databases: PostgreSQL, SQL Server, MySQL
+- Cloud: Snowflake, AWS
+- Databases: PostgreSQL
 - Data Transformation: ETL/ELT, Data Modeling, dbt
 - Data Warehouse: Snowflake, Databricks
-
-
 
 
 # 👋🏻 Connect with Me
