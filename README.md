@@ -12,13 +12,11 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/haroo
 
 # 🛠️ Skills
 - Analytics: Business Intelligence, Dashboarding, KPI design, Self-serve analytics, Data storytelling, Ad-hoc analysis
-- Languages: SQL, Python (Pandas, NumPy, Matplotlib, PySpark)
-- Data Visualization: Power BI (DAX, Power Query), Excel
+- Languages: SQL, Python
+- Data Visualization: Power BI, Excel
 - Data Ops & Version Control: Airflow, Docker, Git
-- Cloud: Snowflake, AWS
-- Databases: PostgreSQL
+- Databases & Cloud: Snowflake, AWS, PostgreSQL
 - Data Transformation: ETL/ELT, Data Modeling, dbt
-- Data Warehouse: Snowflake, Databricks
 
 
 # 👋🏻 Connect with Me
